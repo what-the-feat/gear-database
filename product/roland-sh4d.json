@@ -1,0 +1,27 @@
+{
+
+	"midi-connectivity": {
+		"midi-out-5-pin": true,
+		"midi-in-5-pin": true,
+		"midi-thru-5-pin": false,
+		
+		"midi-out-jack": false,
+		"midi-out-jack": false,
+		"midi-thru-jack": false,
+		
+		"midi-over-usb-a": false,
+		"midi-over-usb-b": false,
+		"midi-over-usb-c": true,
+	},
+
+	"midi-sequencing": {
+		"max-number-of-midi-tracks": 5,
+		"max-number-of-patterns": "?",
+		"max-number-of-steps-per-pattern": 64,
+		"patterns-composition": false,	
+	
+	},
+
+
+
+}
